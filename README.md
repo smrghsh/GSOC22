@@ -1,4 +1,4 @@
-# Google Summer of Code'22 Work Summary
+# Work Summary for Google Summer of Code '22
 To quickly view contributions please visit this link:
 [https://github.com/stalgiag/p5.xr/commits?author=smrghsh](https://github.com/stalgiag/p5.xr/commits?author=smrghsh)
 
